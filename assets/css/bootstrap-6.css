@@ -11797,7 +11797,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #80425F;
+  color: #7F7FFF;
 }
 
 .resume-section-title {
@@ -11843,7 +11843,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #a25378;
+  border: 4px solid #7F7FFF;
   background: white;
   border-radius: 50%;
 }
